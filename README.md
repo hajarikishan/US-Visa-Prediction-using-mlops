@@ -9,3 +9,22 @@ Tools:
 4. MLops tool: https://www.evidentlyai.com/
 5. MongoDB
 6. DataSet link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+## run commands
+
+```
+conda create -n us_visa python=3.12 -y
+
+```
+
+```
+
+conda activate us_visa
+
+```
+
+```
+pip install -r requirements.txt
+
+```
+
