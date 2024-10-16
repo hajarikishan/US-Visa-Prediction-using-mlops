@@ -35,3 +35,7 @@ pip install -r requirements.txt
 3. components
 4. pipeline
 5. Main file
+
+
+
+## URI -  730335340746.dkr.ecr.us-east-1.amazonaws.com/visa
